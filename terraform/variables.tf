@@ -460,6 +460,9 @@ variable "serverless_vpc_connector_machine_type" {
   description = "Serverless VPC connector machine type"
 }
 
+locals {
+  test = "local
+}
 
 
 
